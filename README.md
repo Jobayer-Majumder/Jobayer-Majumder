@@ -11,6 +11,7 @@
 - ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
 
 
-### Contact With Me : 
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer-Majumder)](https://github.com/anuraghazra/github-readme-stats)
