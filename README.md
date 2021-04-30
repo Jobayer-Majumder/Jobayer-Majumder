@@ -13,5 +13,8 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer-Majumder&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer-Majumder)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-Majumder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
