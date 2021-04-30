@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... tech stuff
 - 📫 How to reach me: ...
-- 🥅 2021 Goals: Learn Next JS & Node JS
+- 🥅 2021 Goals: Learn Next JS & Vue JS
 - ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
 
 
