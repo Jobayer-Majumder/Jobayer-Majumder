@@ -23,4 +23,19 @@ https://ibb.co/XFZj3pD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-Majumder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://img.shields.io/badge/hi-hi-informational?style=flat&logo=<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/hi-hi-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
