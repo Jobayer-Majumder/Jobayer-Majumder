@@ -13,7 +13,7 @@
 
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/Jobayer-Majumde/Jobayer-Majumde/readme_header.png "Header")](https://ibb.co/XFZj3pD)
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Jobayer-Majumde/Jobayer-Majumde/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/Jobayer-Majumde/Jobayer-Majumde/https://ibb.co/XFZj3pD "Header")](https://some-url.dev/)
 https://ibb.co/XFZj3pD
 
 
