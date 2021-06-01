@@ -23,3 +23,4 @@ https://ibb.co/XFZj3pD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-Majumder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![](https://img.shields.io/badge/<hi>-<hi>-informational?style=flat&logo=<javascrip>&logoColor=white&color=2bbc8a)
