@@ -28,11 +28,11 @@ https://ibb.co/XFZj3pD
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Ftwitter-svg-icon-28.html&psig=AOvVaw0Ws0ceWu6_XU4MV2cRmB6d&ust=1622672827843000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC2wNO99_ACFQAAAAAdAAAAABAD
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
