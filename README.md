@@ -24,6 +24,8 @@
 
 https://img.shields.io/twitter/follow/JobayerMajumder?style=social
 
+![Twitter Follow](https://img.shields.io/twitter/follow/JobayerMajumder?style=social)
+
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2].
