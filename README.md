@@ -12,9 +12,6 @@
 
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Jobayer-Majumde/Jobayer-Majumde/readme_header.png "Header")](https://ibb.co/XFZj3pD)
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Jobayer-Majumde/Jobayer-Majumde/https://ibb.co/XFZj3pD "Header")](https://some-url.dev/)
-https://ibb.co/XFZj3pD
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer-Majumder&show_icons=true&theme=radical)
@@ -23,7 +20,7 @@ https://ibb.co/XFZj3pD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-Majumder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://img.shields.io/badge/hi-hi-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/hi-hi-informational?style=flat&logo=&logoColor=white&color=2bbc8a) -->
 
 
 <!-- Actual text -->
