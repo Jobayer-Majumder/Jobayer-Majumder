@@ -22,9 +22,8 @@
 
 <!-- ![](https://img.shields.io/badge/hi-hi-informational?style=flat&logo=&logoColor=white&color=2bbc8a) -->
 
-https://img.shields.io/twitter/follow/JobayerMajumder?style=social
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JobayerMajumder?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/JobayerMajumder?label=Follow%20Me&style=social)
 
 <!-- Actual text -->
 
