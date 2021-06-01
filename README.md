@@ -22,6 +22,7 @@
 
 <!-- ![](https://img.shields.io/badge/hi-hi-informational?style=flat&logo=&logoColor=white&color=2bbc8a) -->
 
+https://img.shields.io/badge/twitter-Follow%20Me-blue
 
 <!-- Actual text -->
 
