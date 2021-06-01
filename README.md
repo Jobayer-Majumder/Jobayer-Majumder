@@ -8,7 +8,12 @@
 - ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
 
 
+
+
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/JobayerMajumder?label=Follow%20Me&style=social)
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer-Majumder&show_icons=true&theme=radical)
