@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on ... React.js
-- 🌱 I’m currently learning ... Web development
+- 🌱 I’m currently learning ... React native
 - 👯 I’m looking to collaborate on ... React.js
-- 🥅 2021 Goals: Learn Next JS & Vue JS
+- 🥅 2021 Goals: React native & Vue JS
 - ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
 
 
