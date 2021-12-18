@@ -1,7 +1,7 @@
 ### Hi there, im Jobayer-Majumder 👋 
 
 
-- 🔭 I’m currently working on ... React.js
+- 🔭 I’m currently working on ... ReactJS, NodeJS, Express
 - 🌱 I’m currently learning ... React native
 - 👯 I’m looking to collaborate on ... React.js
 - 🥅 2021 Goals: React native & Vue JS
